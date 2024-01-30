@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Grafst\ArtisanBug\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ArtisanBugCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'artisan-bug';
 
     public $description = 'My command';
 
